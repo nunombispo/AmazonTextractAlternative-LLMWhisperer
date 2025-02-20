@@ -1,0 +1,7 @@
+NPC-500-5,,Engines,,,Booster,,CSM
+Program Elements,,H-1,J-2,S-IB,S-IVB,IU,SLA
+Reliability Goals R&QA Plan Reliability Predictions,Conceptual Phase,C U C,C I I,C I C,C I C,C I C,C C I
+Apportionments FMEA's Specification Reliability Req. Mission Profile Human Eng. and Maint. Parts and Materials Test Requirements,Design Phase,U C C C I I C,U C C C C I C,I C C C C I C,C C C I I I C,I I I C I I C,C C C C U U C
+Change Control Critical Items FR's and Corrective Action,Development Phase,C C U,C C I,C C C,C C I,C I I,C I I
+Reliability Assessments MRB Configuration Control Program Reviews Contractor Audits by Center,Fabrication Phase,I C C U I,I I C U I,U C C I I,U C C I I,U I C I I,I I C I I
+Qualification Tests Qual. Status List Reliability Demo. Test EI Accept. Tests Checkout Equipment Logs Buy-Off,Ground Test Phase,C U I C C I I,I I I C I I I,I C I C I U U,I U U I I U U,I I U I I U U,I I U I U U U

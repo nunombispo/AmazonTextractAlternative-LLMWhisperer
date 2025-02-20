@@ -1,0 +1,34 @@
+Document loaded: .\loan-estimate-filled.pdf
+
+Extracted Key–Value Pairs:
+
+Mortgage Insurance:
+YES,: X
+Monthly Principal & Interest See Projected Payments below for: $761.78
+Estimated Taxes, Insurance & Assessments: $206 a month
+PRODUCT: Fixed Rate
+SALE PRICE: $180,000
+NO:
+Conventional: X
+DATE ISSUED: 2/15/2013
+FHA:
+VA:
+APPLICANTS: Michael Jones and Mary Stone 123 Anywhere Street Anytown, ST 12345
+PROPERTY: 456 Somewhere Avenue Anytown, ST 12345
+LOAN ID #: 123456789, 123456789
+Homeowner's Insurance: X
+Estimated Cash to Close: $16,054 Includes Closing Costs. See Calculating Cash to Close on page 2 for details.
+LOAN TERM: 30 years
+PURPOSE: Purchase
+Property Taxes: X
+Estimated Closing Costs: $8,054 Includes $5,672 in Loan Costs + $2,382 in Other Costs - $0 in Lender Credits. See page 2 for details.
+Prepayment Penalty:
+Loan Amount: $162,000
+Does the loan have these features?: YES As high as $3,240 if you pay off the loan during the first 2 years
+In escrow?: YES YES
+Interest Rate: 3.875%
+Balloon Payment: NO
+PAGE: 1 OF 3
+Estimated Total Monthly Payment: $1,050 $968
+Visit: www.consumerfinance.gov/mortgage-estimate
+Other::

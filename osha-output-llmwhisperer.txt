@@ -1,0 +1,102 @@
+OSHA's Form                      300 (Rev. 01/2004)
+                                                                                                                                                           protects the confidentiality of employees to the extent                                 Year 20
+                                                                                                                                                           possible while the information is being used for
+
+                                                                                 U.S. Department of Labor
+ Log           of Work-Related                                         Injuries                    and           Illnesses                                 occupational safety and health purposes.                                     Occupational Safety and Health Administration
+
+                                                                                     Form approved OMB no. 1218-0176
+ You must record information about every work-related death and about every work-related injury or illness that involves loss of consciousness, restricted work activity or job transfer,
+ days away from work, or medical treatment beyond first aid. You must also record significant work-related injuries and illnesses that are diagnosed by a physician or licensed health
+ care professional. You must also record work-related injuries and illnesses that meet any of the specific recording criteria listed in 29 CFR Part 1904.8 through 1904.12. Feel free to                                    Establishment name       Dock Logistics
+ use two lines for a single case if you need to. You must complete an Injury and Illness Incident Report (OSHA Form 301) or equivalent form for each injury or illness recorded on this
+
+                                                            City        California            State
+ form. If you're not sure whether a case is recordable, call your local OSHA office for help.
+
+  Identify the person                                            Describe the case
+        Classify the case
+
+         CHECK ONLY ONE box for each case                   Enter the number of
+  (A)            (B)                             (C)                (D)                       (E)                                     (F)
+        based on the most serious outcome for               days the injured or      Check the "Injury" column or
+  Case     Employee's name                    Job title         Date of injury    Where the event occurred      Describe injury or illness, parts of body affected,      that case:                                         ill worker was:           choose one type of illness:
+  no.                                         (e.g., Welder)    or onset         (e.g., Loading dock north end) and object/substance that directly injured                                                                                                  disorder
+
+                                                                                    (M)           condition
+                                                                of illness                                      or made person ill (e.g., Second degree burns on                                 Remained at Work                                                            loss
+
+                                                            Away       On job
+                                                                                                                right forearm from acetylene torch)
+                 Days away Job transfer    Other record-    from     transfer or           Skin                  other All
+
+        Death    from work   or restriction able cases      work     restriction      Injury    Respiratory Poisoning Hearing illnesses
+
+          (G)       (H)          (I)          (J)                                                      +
+
+                                                             (K)         (L)         (1)   (2) (3)    (4)        (6)
+
+ 3443           Roger Smith                    Engineer           2 / 4              Dock yard                    First degree burns in arms
+          [ ]       [X]         [ ]          [ ]            32 days         days      [X] [ ]    [ ]   [ ] [ ]    [ ]
+                                                               month/day
+  8932         William potter                  Engineer           2 / 4              Dock yard                     laceration in the neck
+                                                            24 days         days
+
+          [ ]       [X]         [ ]           [ ]                                     [X] [X]    [ ]   [ ] [ ]    [ ]
+                                                               month/day
+  767          Simon Dawes                    Engineer            2 14               Dock yard                    Fractured right leg
+                                                            16 days         days
+
+          [ ]       [ ]         [X]           [ ]                                     [X] [ ]    [ ]   [ ] [ ]    [ ]
+                                                               month/day
+
+          [ ]       [ ]         [ ]           [ ]               days        days      [ ] [ ]    [ ]   [ ] [ ]    [ ]
+                                                               month/day
+                                                                     1
+         [ ]        [ ]         [ ]           [ ]               days        days      [ ] [ ]    [ ]   [ ] [ ]    [ ]
+                                                               month/day
+
+          [ ]       [ ]         [ ]           [ ]               days        days      [ ] [ ]    [ ]   [ ] [ ]    [ ]
+                                                               month/day
+
+          [ ]       [ ]         [ ]           [ ]               days        days      [ ] [ ]    [ ]   [ ] [ ]    [ ]
+                                                               month/day
+                                                                     /
+          [ ]       [ ]         [ ]           [ ]               days        days      [ ] [ ]    [ ]   [ ] [ ]    [ ]
+                                                               month/day
+
+                                                                     1
+          [ ]       [ ]         [ ]           [ ]               days        days      [ ] [ ]    [ ]   [ ] [ ]    [ ]
+                                                               month/day
+
+                                                                     /
+          [ ]       [ ]         [ ]           [ ]               days        days      [ ] [ ]    [ ]   [ ] [ ]    [ ]
+                                                               month/day
+
+                                                                     /
+          [ ]       [ ]          [ ]          [ ]               days        days      [ ] [ ]    [ ]   [ ] [ ]    [ ]
+                                                               month/day
+
+                                                                days        days
+
+          [ ]       [ ]          [ ]          [ ]                                     [ ] [ ]    [ ]   [ ] [ ]    [ ]
+                                                               month/day
+                                                                     /
+                                                                days        days      [ ] [ ]    [ ]   [ ] [ ]    [ ]
+
+          [ ]       [ ]          [ ]          [ ]
+                                                               month/day
+                                                                                                                                                      Page totals                      2            1                                                  3     1
+
+                                                                                     Injury disorder Respiratory condition Poisoning loss illnesses
+ Public reporting burden for this collection of information is estimated to average 14 minutes per response, including time to review                 Be sure to transfer these totals to the Summary page (Form 300A) before you post it.                                        other
+ the instructions, search and gather the data needed, and complete and review the collection of information. Persons are not required
+                                                                                                                 All
+ to respond to the collection of information unless it displays a currently valid OMB control number. If you have any comments
+                                                                                                            Hearing
+ about these estimates or any other aspects of this data collection, contact: US Department of Labor, OSHA Office of Statistical
+                                                                                           Skin
+
+                                                         Page     of                 (1)   (2) N (3) (4) (5)     (6)
+ Analysis, Room N-3644, 200 Constitution Avenue, NW, Washington, DC 20210. Do not send the completed forms to this office.
+<<<

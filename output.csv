@@ -1,0 +1,81 @@
+Table: Table_1
+
+LOAN TERM,30 years
+PURPOSE,Purchase
+PRODUCT,Fixed Rate
+LOAN TYPE,X Conventional FHA VA
+LOAN ID #,123456789
+RATE LOCK,X NO YES, until 4/16/2013 at 5:00 p.m. EDT Before closing, your interest rate, points, and lender credits can change unless you lock the interest rate. All other estimated closing costs expire on 3/4/2013 at 5:00 p.m. EDT
+
+Confidence Scores (per cell):
+88.8671875,91.69921875,
+61.669921875,63.623046875,
+54.00390625,55.712890625,
+39.0625,40.3076171875,
+38.0859375,39.2822265625,
+50.9765625,52.587890625,
+
+
+
+Table: Table_2
+
+DATE ISSUED,2/15/2013
+APPLICANTS,Michael Jones and Mary Stone 123 Anywhere Street Anytown, ST 12345
+PROPERTY,456 Somewhere Avenue Anytown, ST 12345
+SALE PRICE,$180,000
+
+Confidence Scores (per cell):
+79.736328125,81.15234375,
+66.2109375,67.3828125,
+70.654296875,71.875,
+84.375,85.83984375,
+
+
+
+Table: Table_3
+
+Loan Terms,,Can this amount increase after closing?
+Loan Amount,$162,000,NO
+Interest Rate,3.875%,NO
+Monthly Principal & Interest See Projected Payments below for your Estimated Total Monthly Payment,$761.78,NO
+Prepayment Penalty,,Does the loan have these features? YES As high as $3,240 if you pay off the loan during the first 2 years
+Balloon Payment,,NO
+
+Confidence Scores (per cell):
+92.7734375,41.7724609375,38.9404296875,
+90.13671875,40.6005859375,37.841796875,
+89.013671875,41.8701171875,41.8701171875,
+94.482421875,48.2421875,48.2421875,
+45.1904296875,41.11328125,41.11328125,
+93.310546875,54.39453125,54.39453125,
+
+
+
+Table: Table_4
+
+Payment Calculation,Years 1-7,Years 8-30
+Principal & Interest,$761.78,$761.78
+Mortgage Insurance,+ 82,+ -
+Estimated Escrow Amount can increase over time,+ 206,+ 206
+Estimated Total Monthly Payment,$1,050,$968
+
+Confidence Scores (per cell):
+92.529296875,93.408203125,92.724609375,
+91.30859375,92.1875,91.50390625,
+84.86328125,85.64453125,85.009765625,
+85.595703125,86.42578125,85.791015625,
+93.408203125,94.3359375,93.603515625,
+
+
+
+Table: Table_5
+
+Estimated Closing Costs,$8,054 Includes $5,672 in Loan Costs + $2,382 in Other Costs - $0 in Lender Credits. See page 2 for details.
+Estimated Cash to Close,$16,054 Includes Closing Costs. See Calculating Cash to Close on page 2 for details.
+
+Confidence Scores (per cell):
+92.236328125,93.896484375,
+94.091796875,95.751953125,
+
+
+

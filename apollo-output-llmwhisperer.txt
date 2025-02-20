@@ -1,0 +1,50 @@
+          The overall summary of reliability and quality status on those items of flight hardware
+          which have been designated for the Apollo-Saturn 201 Mission appears in Figure 3-4.
+          The measurement yardstick used as a base is derived from the phased program ele-
+         ments of NPC 500-5, "Apollo Reliability and Quality Assurance Program Plan" (2).
+
+                             NPC-500-5                       Engines     Booster      CSM
+
+                                                                                      SLA
+                         Program Elements                   H-1 J-2 S-IB S-IVB IU
+
+          Reliability Goals                  Conceptual      C    C    C      C    C    C
+          R&QA Plan                           Phase          U     I   I      I    I    C
+          Reliability Predictions                            C     I   C      C    C    I
+
+          Apportionments                                     U    U     I     C    I    C
+           FMEA's                                            C    C    C      C    I    C
+          Specification Reliability Req.                     C    C    C      C    I    C
+          Mission Profile                    Design          C    C    C      I    C    C
+          Human Eng. and Maint.               Phase           I   C    C       I   I    U
+           Parts and Materials                                I    I    I      I   I    U
+           Test Requirements                                      C    C      C    C    C
+
+           Change Control                                    C    C    C      C    C    C
+           Critical Items                    Development      C   C    C      C    I    I
+           FR's and Corrective Action         Phase          U     I   C       I    I   I
+
+           Reliability Assessments                            I    I   U      U    U    I
+           MRB                               Fabrication     C     I   C      C     I   I
+           Configuration Control              Phase           C   C    C      C    C    C
+           Program Reviews                                    U   U     I      I    I   I
+           Contractor Audits by Center                        I    I    I      I    I   I
+
+          Qualification Tests                                 C    I    I      I    I   I
+           Qual. Status List                                  U    I   C      U     I    I
+           Reliability Demo. Test            Ground Test      I    I    I     U    U    U
+           EI Accept. Tests                   Phase           C    C   C       I    I   I
+           Checkout                                           C    I    I      I    I   U
+                                                                                   U    U
+           Equipment Logs                                     I    I    U      U
+           Buy-Off                                            I    I    U      U   U    U
+
+          Key
+            C - Complete
+            I - Initiated
+            U - Status Unknown
+
+              Figure 3-4. Apollo-Saturn 201 Vehicle Reliability and Quality Program Status
+
+                                                                                        3-3
+<<<

@@ -1,0 +1,28 @@
+LOAN TERM,30 years
+PURPOSE,Purchase
+PRODUCT,Fixed Rate
+LOAN TYPE,X Conventional FHA VA
+LOAN ID #,123456789
+RATE LOCK,X NO YES, until 4/16/2013 at 5:00 p.m. EDT Before closing, your interest rate, points, and lender credits can change unless you lock the interest rate. All other estimated closing costs expire on 3/4/2013 at 5:00 p.m. EDT
+
+DATE ISSUED,2/15/2013
+APPLICANTS,Michael Jones and Mary Stone 123 Anywhere Street Anytown, ST 12345
+PROPERTY,456 Somewhere Avenue Anytown, ST 12345
+SALE PRICE,$180,000
+
+Loan Terms,,Can this amount increase after closing?
+Loan Amount,$162,000,NO
+Interest Rate,3.875%,NO
+Monthly Principal & Interest See Projected Payments below for your Estimated Total Monthly Payment,$761.78,NO
+Prepayment Penalty,,Does the loan have these features? YES As high as $3,240 if you pay off the loan during the first 2 years
+Balloon Payment,,NO
+
+Payment Calculation,Years 1-7,Years 8-30
+Principal & Interest,$761.78,$761.78
+Mortgage Insurance,+ 82,+ -
+Estimated Escrow Amount can increase over time,+ 206,+ 206
+Estimated Total Monthly Payment,$1,050,$968
+
+Estimated Closing Costs,$8,054 Includes $5,672 in Loan Costs + $2,382 in Other Costs - $0 in Lender Credits. See page 2 for details.
+Estimated Cash to Close,$16,054 Includes Closing Costs. See Calculating Cash to Close on page 2 for details.
+

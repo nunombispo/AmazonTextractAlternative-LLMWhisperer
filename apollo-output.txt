@@ -1,0 +1,11 @@
+Document loaded: .\apollo-documents-vertical-text.pdf
+
+Extracted Key–Value Pairs:
+
+Phase: ,
+Figure:
+- Status Unknown:
+I - Initiated:
+U:
+C: Complete
+3-4.: Apollo-Saturn 201 Vehicle Reliability and Quality Program Status

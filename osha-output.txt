@@ -1,0 +1,16 @@
+Document loaded: .\osha-forms-filled.pdf
+
+Extracted Key–Value Pairs:
+
+days: , , , , , , , , , , , , , , 16, , , , , , , , 24, 32, ,
+(1):
+Year: 20
+(4):
+month/day: , /, /, 2 4, 2 / 4, , /, /, /, /, /, /, /
+(2) (3):
+State:
+(Rev.: 01/2004)
+Establishment name: Dock Logistics
+City: California
+Page: of
+Form approved OMB no.: 1218-0176
